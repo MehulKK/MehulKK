@@ -2,8 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=MehulKK&color=blue&style=flat)
 
-- 💻 Developer with more then 5 years experience
-- 🔭 I’m currently working on Android
+- 💻 Developer with more then 9 years experience
+- 💡 Problem Solver
+- 🔭 I’m currently working on Android | Flutter
+- 💬 Ask me about Android and Flutter.
+- 😄 Pronouns: he | his
 
 
 ### 📫 How to reach me:
